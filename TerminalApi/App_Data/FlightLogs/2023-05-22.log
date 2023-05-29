@@ -1,0 +1,250 @@
+[2023-05-22 00:14:17.9059]|flight taken off 
+ Flight number: 31700,
+ AirLine: Lion Airlines, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 0:13:47
+[2023-05-22 00:14:19.1998]|Flight landed Flight number: 24288,
+ AirLine: Turkish Airlines, 
+ Is arrival?: True, 
+ Created date: 22/05/2023 0:13:30
+[2023-05-22 00:14:20.4398]|Flight landed Flight number: 73766,
+ AirLine: EL AL, 
+ Is arrival?: True, 
+ Created date: 22/05/2023 0:13:50
+[2023-05-22 00:14:21.9964]|flight taken off 
+ Flight number: 23774,
+ AirLine: Korean Air, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 0:13:57
+[2023-05-22 00:14:22.9436]|Flight landed Flight number: 87988,
+ AirLine: Korean Air, 
+ Is arrival?: True, 
+ Created date: 22/05/2023 0:13:52
+[2023-05-22 00:14:24.5052]|flight taken off 
+ Flight number: 51535,
+ AirLine: United, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 0:14:00
+[2023-05-22 00:14:25.4711]|Flight landed Flight number: 78224,
+ AirLine: United, 
+ Is arrival?: True, 
+ Created date: 22/05/2023 0:13:55
+[2023-05-22 00:14:27.0157]|flight taken off 
+ Flight number: 13876,
+ AirLine: Ryanair, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 0:14:02
+[2023-05-22 00:14:29.5280]|flight taken off 
+ Flight number: 83894,
+ AirLine: United, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 0:14:05
+[2023-05-22 00:14:32.0439]|flight taken off 
+ Flight number: 44332,
+ AirLine: United, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 0:14:08
+[2023-05-22 00:14:34.5782]|flight taken off 
+ Flight number: 36206,
+ AirLine: Qatar Airways, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 0:14:10
+[2023-05-22 00:14:55.0864]|Flight landed Flight number: 88414,
+ AirLine: Wizzair, 
+ Is arrival?: True, 
+ Created date: 22/05/2023 0:14:13
+[2023-05-22 00:14:55.6690]|flight taken off 
+ Flight number: 24801,
+ AirLine: Frontier, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 0:14:25
+[2023-05-22 00:14:57.5952]|Flight landed Flight number: 12059,
+ AirLine: SunExpress, 
+ Is arrival?: True, 
+ Created date: 22/05/2023 0:14:15
+[2023-05-22 00:14:58.1885]|flight taken off 
+ Flight number: 75499,
+ AirLine: SunExpress, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 0:14:28
+[2023-05-22 13:28:19.9787]|flight taken off 
+ Flight number: 81687,
+ AirLine: Frontier, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 13:27:40
+[2023-05-22 13:28:23.0143]|flight taken off 
+ Flight number: 96232,
+ AirLine: America Airlines, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 13:27:52
+[2023-05-22 13:28:28.0438]|flight taken off 
+ Flight number: 88417,
+ AirLine: Qatar Airways, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 13:27:58
+[2023-05-22 13:28:35.5850]|flight taken off 
+ Flight number: 43542,
+ AirLine: Korean Air, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 13:28:05
+[2023-05-22 13:28:36.5618]|Flight landed Flight number: 24337,
+ AirLine: Delta Airlines, 
+ Is arrival?: True, 
+ Created date: 22/05/2023 13:28:00
+[2023-05-22 13:28:37.5353]|Flight landed Flight number: 97934,
+ AirLine: United, 
+ Is arrival?: True, 
+ Created date: 22/05/2023 13:27:55
+[2023-05-22 13:28:39.0830]|Flight landed Flight number: 18055,
+ AirLine: Frontier, 
+ Is arrival?: True, 
+ Created date: 22/05/2023 13:28:03
+[2023-05-22 13:28:40.6111]|flight taken off 
+ Flight number: 33053,
+ AirLine: Delta Airlines, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 13:28:10
+[2023-05-22 13:28:43.1297]|flight taken off 
+ Flight number: 91218,
+ AirLine: Ryanair, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 13:28:13
+[2023-05-22 13:28:44.0912]|Flight landed Flight number: 99898,
+ AirLine: Ryanair, 
+ Is arrival?: True, 
+ Created date: 22/05/2023 13:28:08
+[2023-05-22 13:28:45.6286]|Flight landed Flight number: 25204,
+ AirLine: Delta Airlines, 
+ Is arrival?: True, 
+ Created date: 22/05/2023 13:28:15
+[2023-05-22 13:28:48.1585]|Flight landed Flight number: 74943,
+ AirLine: Ryanair, 
+ Is arrival?: True, 
+ Created date: 22/05/2023 13:28:18
+[2023-05-22 13:28:50.6823]|Flight landed Flight number: 59121,
+ AirLine: Philippine Airlines, 
+ Is arrival?: True, 
+ Created date: 22/05/2023 13:28:20
+[2023-05-22 13:28:52.2296]|flight taken off 
+ Flight number: 46706,
+ AirLine: Philippine Airlines, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 13:28:28
+[2023-05-22 13:28:53.2003]|Flight landed Flight number: 44111,
+ AirLine: EVA Air, 
+ Is arrival?: True, 
+ Created date: 22/05/2023 13:28:23
+[2023-05-22 13:28:55.7218]|Flight landed Flight number: 47800,
+ AirLine: Philippine Airlines, 
+ Is arrival?: True, 
+ Created date: 22/05/2023 13:28:25
+[2023-05-22 13:32:51.0173]|flight taken off 
+ Flight number: 14831,
+ AirLine: Lion Airlines, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 13:32:15
+[2023-05-22 13:32:53.4279]|flight taken off 
+ Flight number: 73356,
+ AirLine: Lion Airlines, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 13:32:29
+[2023-05-22 13:32:54.4088]|Flight landed Flight number: 33684,
+ AirLine: Lion Airlines, 
+ Is arrival?: True, 
+ Created date: 22/05/2023 13:32:24
+[2023-05-22 13:32:56.9194]|Flight landed Flight number: 87214,
+ AirLine: Frontier, 
+ Is arrival?: True, 
+ Created date: 22/05/2023 13:32:26
+[2023-05-22 13:32:58.4556]|flight taken off 
+ Flight number: 58486,
+ AirLine: Frontier, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 13:32:34
+[2023-05-22 13:33:01.9484]|Flight landed Flight number: 44671,
+ AirLine: Wizzair, 
+ Is arrival?: True, 
+ Created date: 22/05/2023 13:32:31
+[2023-05-22 13:33:03.4839]|flight taken off 
+ Flight number: 99727,
+ AirLine: America Airlines, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 13:32:39
+[2023-05-22 13:33:06.0166]|flight taken off 
+ Flight number: 93984,
+ AirLine: Korean Air, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 13:32:41
+[2023-05-22 13:33:06.9675]|Flight landed Flight number: 76441,
+ AirLine: Lion Airlines, 
+ Is arrival?: True, 
+ Created date: 22/05/2023 13:32:36
+[2023-05-22 13:33:08.5015]|flight taken off 
+ Flight number: 22828,
+ AirLine: Lion Airlines, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 13:32:44
+[2023-05-22 14:10:11.4541]|flight taken off 
+ Flight number: 92373,
+ AirLine: Qatar Airways, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 14:09:35
+[2023-05-22 14:10:13.2482]|flight taken off 
+ Flight number: 56450,
+ AirLine: Delta Airlines, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 14:09:49
+[2023-05-22 14:10:14.2077]|Flight landed Flight number: 89633,
+ AirLine: Qatar Airways, 
+ Is arrival?: True, 
+ Created date: 22/05/2023 14:09:44
+[2023-05-22 14:10:15.7595]|flight taken off 
+ Flight number: 81690,
+ AirLine: Qatar Airways, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 14:09:51
+[2023-05-22 14:10:16.7437]|Flight landed Flight number: 29772,
+ AirLine: SunExpress, 
+ Is arrival?: True, 
+ Created date: 22/05/2023 14:09:46
+[2023-05-22 23:28:51.3572]|flight taken off 
+ Flight number: 27117,
+ AirLine: EVA Air, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 23:28:21
+[2023-05-22 23:28:52.0249]|Flight landed Flight number: 62335,
+ AirLine: Lion Airlines, 
+ Is arrival?: True, 
+ Created date: 22/05/2023 23:28:13
+[2023-05-22 23:28:54.8391]|Flight landed Flight number: 16481,
+ AirLine: Frontier, 
+ Is arrival?: True, 
+ Created date: 22/05/2023 23:28:18
+[2023-05-22 23:28:56.3856]|flight taken off 
+ Flight number: 60803,
+ AirLine: Philippine Airlines, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 23:28:26
+[2023-05-22 23:52:02.3444]|flight taken off 
+ Flight number: 84867,
+ AirLine: Wizzair, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 23:51:32
+[2023-05-22 23:52:05.6227]|Flight landed Flight number: 88452,
+ AirLine: EL AL, 
+ Is arrival?: True, 
+ Created date: 22/05/2023 23:51:25
+[2023-05-22 23:58:43.5205]|flight taken off 
+ Flight number: 96710,
+ AirLine: EL AL, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 23:58:13
+[2023-05-22 23:58:46.7172]|Flight landed Flight number: 19670,
+ AirLine: Delta Airlines, 
+ Is arrival?: True, 
+ Created date: 22/05/2023 23:57:55
+[2023-05-22 23:58:48.5482]|flight taken off 
+ Flight number: 75856,
+ AirLine: SunExpress, 
+ Is arrival?: False, 
+ Created date: 22/05/2023 23:58:18

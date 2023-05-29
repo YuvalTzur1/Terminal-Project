@@ -1,0 +1,128 @@
+[2023-05-17 20:36:18.6910]|flight taken off 
+ Flight number: 46307,
+ AirLine: Philippine Airlines, 
+ Is arrival?: False, 
+ Created date: 17/05/2023 20:34:29
+[2023-05-17 20:58:10.3988]|flight taken off 
+ Flight number: 86973,
+ AirLine: Turkish Airlines, 
+ Is arrival?: False, 
+ Created date: 17/05/2023 20:57:40
+[2023-05-17 20:58:15.4158]|flight taken off 
+ Flight number: 95067,
+ AirLine: EVA Air, 
+ Is arrival?: False, 
+ Created date: 17/05/2023 20:57:45
+[2023-05-17 20:58:16.6084]|Flight landed Flight number: 51963,
+ AirLine: EVA Air, 
+ Is arrival?: True, 
+ Created date: 17/05/2023 20:57:23
+[2023-05-17 20:58:20.4513]|Flight landed Flight number: 44389,
+ AirLine: SunExpress, 
+ Is arrival?: True, 
+ Created date: 17/05/2023 20:57:50
+[2023-05-17 20:58:25.4451]|Flight landed Flight number: 97784,
+ AirLine: Qatar Airways, 
+ Is arrival?: True, 
+ Created date: 17/05/2023 20:57:55
+[2023-05-17 20:58:29.5039]|flight taken off 
+ Flight number: 13290,
+ AirLine: Ryanair, 
+ Is arrival?: False, 
+ Created date: 17/05/2023 20:58:05
+[2023-05-17 20:58:30.4613]|Flight landed Flight number: 56202,
+ AirLine: Wizzair, 
+ Is arrival?: True, 
+ Created date: 17/05/2023 20:58:00
+[2023-05-17 20:58:34.5324]|flight taken off 
+ Flight number: 23158,
+ AirLine: Delta Airlines, 
+ Is arrival?: False, 
+ Created date: 17/05/2023 20:58:10
+[2023-05-17 20:58:50.5757]|flight taken off 
+ Flight number: 63054,
+ AirLine: Korean Air, 
+ Is arrival?: False, 
+ Created date: 17/05/2023 20:58:20
+[2023-05-17 20:58:51.5563]|Flight landed Flight number: 30949,
+ AirLine: Turkish Airlines, 
+ Is arrival?: True, 
+ Created date: 17/05/2023 20:58:15
+[2023-05-17 21:16:17.2326]|flight taken off 
+ Flight number: 47817,
+ AirLine: Frontier, 
+ Is arrival?: False, 
+ Created date: 17/05/2023 21:15:44
+[2023-05-17 21:43:02.8629]|flight taken off 
+ Flight number: 56810,
+ AirLine: United, 
+ Is arrival?: False, 
+ Created date: 17/05/2023 21:42:22
+[2023-05-17 21:43:12.3119]|flight taken off 
+ Flight number: 41934,
+ AirLine: Delta Airlines, 
+ Is arrival?: False, 
+ Created date: 17/05/2023 21:42:48
+[2023-05-17 21:43:13.3193]|Flight landed Flight number: 65059,
+ AirLine: EL AL, 
+ Is arrival?: True, 
+ Created date: 17/05/2023 21:42:43
+[2023-05-17 21:43:14.2761]|Flight landed Flight number: 73612,
+ AirLine: United, 
+ Is arrival?: True, 
+ Created date: 17/05/2023 21:42:38
+[2023-05-17 21:51:15.9036]|flight taken off 
+ Flight number: 14735,
+ AirLine: Qatar Airways, 
+ Is arrival?: False, 
+ Created date: 17/05/2023 21:50:40
+[2023-05-17 21:55:38.1943]|flight taken off 
+ Flight number: 81360,
+ AirLine: Delta Airlines, 
+ Is arrival?: False, 
+ Created date: 17/05/2023 21:55:03
+[2023-05-17 22:32:37.6093]|Flight landed Flight number: 88824,
+ AirLine: Delta Airlines, 
+ Is arrival?: True, 
+ Created date: 17/05/2023 22:31:42
+[2023-05-17 22:32:38.3167]|flight taken off 
+ Flight number: 73977,
+ AirLine: Ryanair, 
+ Is arrival?: False, 
+ Created date: 17/05/2023 22:32:08
+[2023-05-17 22:32:42.4886]|flight taken off 
+ Flight number: 54886,
+ AirLine: Lion Airlines, 
+ Is arrival?: False, 
+ Created date: 17/05/2023 22:32:18
+[2023-05-17 22:32:43.5171]|Flight landed Flight number: 11469,
+ AirLine: EVA Air, 
+ Is arrival?: True, 
+ Created date: 17/05/2023 22:32:13
+[2023-05-17 22:32:58.4438]|flight taken off 
+ Flight number: 32870,
+ AirLine: Frontier, 
+ Is arrival?: False, 
+ Created date: 17/05/2023 22:32:28
+[2023-05-17 22:32:59.4189]|Flight landed Flight number: 71642,
+ AirLine: Frontier, 
+ Is arrival?: True, 
+ Created date: 17/05/2023 22:32:23
+[2023-05-17 22:33:03.5581]|flight taken off 
+ Flight number: 31768,
+ AirLine: Delta Airlines, 
+ Is arrival?: False, 
+ Created date: 17/05/2023 22:32:33
+[2023-05-17 22:33:08.6829]|Flight landed Flight number: 31074,
+ AirLine: Lion Airlines, 
+ Is arrival?: True, 
+ Created date: 17/05/2023 22:32:38
+[2023-05-17 22:33:12.8793]|flight taken off 
+ Flight number: 26278,
+ AirLine: Ryanair, 
+ Is arrival?: False, 
+ Created date: 17/05/2023 22:32:48
+[2023-05-17 22:33:13.8214]|Flight landed Flight number: 64351,
+ AirLine: Qatar Airways, 
+ Is arrival?: True, 
+ Created date: 17/05/2023 22:32:43

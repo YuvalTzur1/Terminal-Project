@@ -1,0 +1,47 @@
+[2023-05-24 10:36:00.7009]|flight taken off 
+ Flight number: 32449,
+ AirLine: Qatar Airways, 
+ Is arrival?: False, 
+ Created date: 24/05/2023 10:35:10
+[2023-05-24 10:36:06.4705]|Flight landed Flight number: 93439,
+ AirLine: Philippine Airlines, 
+ Is arrival?: True, 
+ Created date: 24/05/2023 10:34:58
+[2023-05-24 10:36:12.7377]|flight taken off 
+ Flight number: 61358,
+ AirLine: United, 
+ Is arrival?: False, 
+ Created date: 24/05/2023 10:35:22
+[2023-05-24 10:41:32.2624]|flight taken off 
+ Flight number: 16654,
+ AirLine: Lion Airlines, 
+ Is arrival?: False, 
+ Created date: 24/05/2023 10:40:37
+[2023-05-24 10:41:36.5497]|flight taken off 
+ Flight number: 82345,
+ AirLine: America Airlines, 
+ Is arrival?: False, 
+ Created date: 24/05/2023 10:40:46
+[2023-05-24 10:41:38.9009]|flight taken off 
+ Flight number: 33399,
+ AirLine: America Airlines, 
+ Is arrival?: False, 
+ Created date: 24/05/2023 10:40:58
+[2023-05-24 10:41:40.5788]|Flight landed Flight number: 58259,
+ AirLine: America Airlines, 
+ Is arrival?: True, 
+ Created date: 24/05/2023 10:40:50
+[2023-05-24 10:41:44.5892]|Flight landed Flight number: 82960,
+ AirLine: Wizzair, 
+ Is arrival?: True, 
+ Created date: 24/05/2023 10:40:54
+[2023-05-24 10:41:47.0971]|flight taken off 
+ Flight number: 72801,
+ AirLine: United, 
+ Is arrival?: False, 
+ Created date: 24/05/2023 10:41:07
+[2023-05-24 10:41:51.1170]|flight taken off 
+ Flight number: 40477,
+ AirLine: SunExpress, 
+ Is arrival?: False, 
+ Created date: 24/05/2023 10:41:11
